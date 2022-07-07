@@ -1,0 +1,12 @@
+.box{display: flex;background-color: aqua;width: 510px;height: 510px;
+    flex-wrap: wrap;justify-content: space-between;
+}
+.box > div > button {
+    font-size: 2em;background-color: white;width: 100px;height: 100px;
+    margin:13px;                
+}
+#infor{
+    display: flex;background-color:blue;color: white;font-size: 1.5em;
+    width: 510px;height: 400px;text-align: center;
+}
+
